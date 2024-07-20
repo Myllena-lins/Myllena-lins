@@ -8,7 +8,7 @@
 ![Myllena2 GitHub stats](https://github-readme-stats.vercel.app/api?username=Myllena-lins&show_icons=true&theme=dracula)
 
 #### Contato
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myllena-navarro-8a1869209)
+[![Linkedinn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myllena-navarro-8a1869209)
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myllena.lins250@gmail.com)
 
 ### Hard Skills
