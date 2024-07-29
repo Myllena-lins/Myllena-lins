@@ -1,6 +1,6 @@
 ## Olá! Sou a Myllena Navarro Lins✌🏾
 
-✨ Estou no 2º período de ADS na Cesar School 📚💻. 
+✨ Estudante de ADS na Cesar School 📚💻. 
 
 ✨ Me desenvolvo para conquistar minha primeira oportunidade profissional, mas atestos minhas habilidades em projetos que desenvolvo através de cursos de formação🚀.
 
