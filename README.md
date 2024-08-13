@@ -11,7 +11,6 @@
 [![Git_Profissional](https://img.shields.io/badge/GitHub_Profissional-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Myllena-lins)
 
 ![Myllena GitHub stats](https://github-readme-stats.vercel.app/api?username=Myllena-lins&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myllena-lins&layout=compact)
 
 ### Tecnologia
 <div style="display: inline_block"><br>
