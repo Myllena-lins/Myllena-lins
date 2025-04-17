@@ -1,10 +1,11 @@
 ## Olá! Sou a Myllena Navarro Lins✌🏾
 
-✨ Estudante de ADS na Cesar School 📚💻. 
+✨ Estudante de Análise e Desenvolvimento de Sistemas na Cesar School 📚💻. 
 
-✨ Me desenvolvo para conquistar minha primeira oportunidade profissional, mas atestos minhas habilidades em projetos que desenvolvo através de cursos de formação🚀.
+✨ Atualmente sou Assistente de Dados, no qual utilizo ferramentas como Databricks, PySpark, Excel e Python. Minha atuação envolve o processamento e a modelagem de grandes volumes de dados.
 
-✨ Pretendo seguir carreira na área de Dados🎲🎲🎲!
+✨ Buscado continuamente expandir meus conhecimentos na área de Dados, realizando cursos e projetos em Machine Learning e SQL. 
+
 
 ### Projetos
 [![Git_Acadêmico](https://img.shields.io/badge/GitHub_Acadêmico-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Myllena-navarro)
