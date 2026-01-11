@@ -1,10 +1,10 @@
 ## Olá! Sou a Myllena Navarro Lins✌🏾
 
-✨ Estudante de Análise e Desenvolvimento de Sistemas na Cesar School 📚💻. 
+📊 Assistente de Dados | Data Analytics | BI  
 
-✨ Atualmente sou Assistente de Dados, no qual utilizo ferramentas como Databricks, PySpark, Excel e Python. Minha atuação envolve o processamento e a modelagem de grandes volumes de dados.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – CESAR School  
 
-✨ Buscado continuamente expandir meus conhecimentos na área de Dados, realizando cursos e projetos em Machine Learning e SQL. 
+🧠 Base sólida em Analytics com foco em evolução para **Ciência de Dados**
 
 
 ### Projetos
@@ -13,14 +13,36 @@
 
 ![Myllena GitHub stats](https://github-readme-stats.vercel.app/api?username=Myllena-lins&show_icons=true&theme=dracula)
 
-### Tecnologia
-<div style="display: inline_block"><br>
-  <img align="center" alt="Myllena-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Myllena-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="Myllena-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Power-BI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
-  <img align="center" alt="Excel" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png">
-</div>
+---
+
+## 👩‍💻 Sobre mim
+
+Sou Assistente de Dados, com experiência no tratamento e análise de **bases de alta volumetria**, construção de pipelines e desenvolvimento de **dashboards e indicadores** para apoio à tomada de decisão.
+
+Iniciei minha trajetória profissional na área de Educação (Pedagogia), o que fortaleceu minhas **soft skills**, como comunicação, pensamento analítico e resolução de problemas. Durante a pandemia, realizei minha transição de carreira para tecnologia, direcionando meus estudos e experiências para a área de dados.
+
+Atualmente, atuo com **Databricks (PySpark/Python)**, **Power BI** e análise de dados, além de desenvolver projetos acadêmicos e práticos em **SQL, estatística aplicada e Ciência de Dados**, sempre com foco em **dados orientados a negócio**.
+
+---
+
+## 🧠 Habilidades Técnicas
+
+### 📌 Análise & Linguagens
+- Python (Pandas, NumPy, Scikit-learn – introdutório)
+- SQL (PostgreSQL / MySQL)
+
+### 📊 Dados & BI
+- Power BI (dashboards, KPIs, relatórios)
+- Modelagem de dados (relacional e dimensional – básico/intermediário)
+- Estatística aplicada (descritiva, correlação, testes básicos)
+
+### ⚙️ Ferramentas
+- Databricks (PySpark)
+- Git & GitHub
+- Docker (ambiente para projetos acadêmicos)
+- Excel avançado
+
+---
           
 ### Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myllena-navarro-8a1869209)
